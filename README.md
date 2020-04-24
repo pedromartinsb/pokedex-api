@@ -1,6 +1,6 @@
 # pokedex_api
 
-A new Flutter project.
+A Pokedex Api Flutter example using MobX to consume datas.
 
 ## Getting Started
 
